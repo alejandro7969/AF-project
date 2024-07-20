@@ -1,0 +1,68 @@
+body {
+    background-image: url("./pngtree-limitless-expanse-trillions-of-stars-and-galaxies-in-the-expansive-cosmos-picture-image_7424724.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+
+}
+
+iframe {
+    border: solid transparent;
+    border-radius: 20px;
+}
+
+.chartes {
+    height: 100vh;
+    width: 20vw;
+    margin: 0;
+    background-color: #000a;
+    position: fixed;
+    overflow: auto;
+
+}
+
+.div1 {
+    margin: auto;
+    margin-left: 50%;
+    padding: 0;
+    height: 500px;
+    width: 500px;
+}
+
+.ssj_img {
+    margin: auto;
+    margin-left: 9%;
+    height: 400px;
+    width: 400px;
+    border: 5px solid transparent;
+    border-radius: 500px;
+
+}
+
+.div2 {
+    margin: auto;
+    margin-top: 65vh;
+    margin-left: 50%;
+    padding: 0;
+    height: 500px;
+    width: 500px;
+}
+
+.ssj_img2 {
+    margin: auto;
+    margin-left: 9%;
+    height: 400px;
+    width: 400px;
+    border-width: 400px;
+    border-radius: 500px;
+    border: solid;
+    border-color: transparent;
+   
+    }
+
+    p {
+        color: #fff;
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: 700;
+    }
